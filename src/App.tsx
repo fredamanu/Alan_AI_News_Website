@@ -58,6 +58,9 @@ const App = () => {
                 />
             </div>
             <NewsCards articles={newsArticles} activeArticle={activeArticle} />
+            <footer className={classes.footer}>
+                Made with 💖 by Freda Manu
+            </footer>
         </div>
     )
 }

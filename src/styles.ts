@@ -3,9 +3,6 @@ import { makeStyles } from 'tss-react/mui'
 const styles = makeStyles()((theme) => ({
  footer: {
   textAlign: 'center',
-  position: 'fixed',
-  left: 0,
-  bottom: 0,
   color: 'black',
   width: '100%',
   display: 'flex',
@@ -65,8 +62,8 @@ const styles = makeStyles()((theme) => ({
   }
  },
  alanLogo: {
-  height: '27vmin',
-  borderRadius: '15%',
+  height: '37vmin',
+  borderRadius: '25%',
   padding: '0 5%',
   margin: '3% 0',
   [theme.breakpoints.down('sm')]: {
