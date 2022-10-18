@@ -7,7 +7,7 @@ import NewsCards from './components/NewsCards/NewsCards'
 import { NewsArticle } from './types'
 import useStyles from './styles'
 
-const alankey = import.meta.env.VITE_ALAN_KEY
+const alankey = "eabebd9ee023aa8d0e850e14078fd1512e956eca572e1d8b807a3e2338fdd0dc/stage"
 
 
 
