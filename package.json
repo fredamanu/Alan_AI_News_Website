@@ -20,7 +20,7 @@
     "styled-components": "^5.3.6",
     "tss-react": "^4.4.1",
     "uuid": "^9.0.0",
-    "words-to-numbers": "^1.5.1"
+    "words-to-num": "^0.2.0"
   },
   "devDependencies": {
     "@types/node": "^18.11.0",
